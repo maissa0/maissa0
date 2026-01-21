@@ -55,17 +55,7 @@ Mon objectif est de bâtir des solutions robustes, performantes et bien pensées
   <img alt="SDL" src="https://cdn.jsdelivr.net/npm/simple-icons@v7/icons/sdl.svg" width="30"/>
 </div>
 
----
 
-### ☁️ Bases de Données & Cloud
-<div align="left"> <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="35"/> <img alt="MySQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35"/> <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35"/> <img alt="H2" src="https://img.shields.io/badge/Database-H2-lightgrey?logo=datagrip&style=flat-square"/> <img alt="Neo4j" src="https://img.shields.io/badge/GraphDB-Neo4j-009688?logo=neo4j&logoColor=white&style=flat-square"/> </div>
-
----
-
-### 🛡️ DevOps, CI/CD & Outils
-<div align="left"> <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="35"/> <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35"/> <img alt="Bash" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="35"/> <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="35"/> <img alt="Vagrant" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vagrant/vagrant-original.svg" width="35"/> <img alt="Jenkins" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="35"/> <img alt="Prometheus" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prometheus/prometheus-original.svg" width="35"/> <img alt="Grafana" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/grafana/grafana-original.svg" width="35"/> <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-Code%20Quality-blue?logo=sonarqube&style=flat-square"/> <img alt="Nexus" src="https://img.shields.io/badge/Nexus-Repository-lightgrey?logo=sonatype&style=flat-square"/> </div>
-
----
 
 ## 🌐 Languages
 🇦🇪 Arabic: Native  
